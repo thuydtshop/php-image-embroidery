@@ -1,1 +1,0 @@
-# php-image-embroidery
